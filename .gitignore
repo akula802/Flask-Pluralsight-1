@@ -1,3 +1,5 @@
 # Untracked files
 
-# flask-ps1/
+# Venv
+flask-ps1/
+env*/
