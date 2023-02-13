@@ -3,6 +3,5 @@
 # Venv
 env*/
 
-
 # Cache
 __pycache__/
