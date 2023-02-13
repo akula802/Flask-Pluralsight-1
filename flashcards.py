@@ -10,6 +10,7 @@ pass
 
 
 # Flask app name is the filename of this file
+# flask --app flashcards.py --debug run
 app = Flask(__name__)
 
 
